@@ -1,1 +1,3 @@
 - [events](events/)
+- [math notes](https://greykeenan.github.io/n.math/)
+- [old unfinished minesweeper](https://ironagate.github.io/game_minesweeper/")
